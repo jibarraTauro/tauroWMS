@@ -1,2 +1,2 @@
 # tauroWMS
-Sistema administracion de inventario
+Sistema administracion de inventario, JI
